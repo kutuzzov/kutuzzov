@@ -13,5 +13,5 @@
 Люблю фотографировать, путешествовать и помогать людям.
 
 **Контакты для связи:**
-- https://t.me/kutuzzzov
-- v.v.kutuzov@gmail.com
+- Telegram: [kutuzzzov](https://t.me/kutuzzzov)
+- E-mail: v.v.kutuzov@gmail.com
