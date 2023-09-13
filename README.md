@@ -1,5 +1,3 @@
-# 🖖 Мир вам, земляне!
-
 Стек:
 C++17, MS Visual Studio, Xcode, Git, CMake, Google Protobuf
 
