@@ -2,8 +2,6 @@
 Стек:
 C++17, MS Visual Studio, Xcode, Git, CMake, Google Protobuf
 
-Кроме кода нравится фотографировать, путешествовать и помогать людям (студенты Практикума привет)).
-
 [Хабр Карьера](https://career.habr.com/kutuzzzov)
 
 
