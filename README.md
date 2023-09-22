@@ -1,6 +1,6 @@
 # 🖖 Мир вам, земляне!
 Стек:
-C++17, MS Visual Studio, Xcode, Git, CMake, Google Protobuf
+C++17, MS Visual Studio, Xcode, Git, CMake, Google Protobuf, GCC
 
 [Хабр Карьера](https://career.habr.com/kutuzzzov)
 
